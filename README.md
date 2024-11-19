@@ -44,11 +44,13 @@ Welcome to the **Machine Learning Algorithms Repository**! This repository conta
 - Libraries:
   - `numpy`
   - `matplotlib`
-  - `tqdm` (for Logistic Regression)
-  - `pip install numpy matplotlib tqdm` (pip installation command)
-
+  - `tqdm` (for Logistic Regression) 
+```bash
+    pip install numpy matplotlib tqdm` 
+```
 ### Running the Notebooks
 1. Clone this repository:
    ```bash
    git clone https://github.com/SV592/ML.git
    cd ML
+   ```
