@@ -40,8 +40,6 @@ This repository contains Jupyter Notebooks implementing various foundational mac
 
 ---
 
----
-
 ### 4. **Convolutional Neural Network (CNN)**
 
 - **Category**: Computer Vision - Image Classification
