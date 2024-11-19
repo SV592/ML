@@ -123,6 +123,7 @@ This repository contains Jupyter Notebooks implementing various foundational mac
 
 ### Installation
 
+1. Install dependencies:
 ```bash
     pip install numpy matplotlib tqdm torch torchvision`
 ```
