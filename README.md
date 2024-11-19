@@ -86,6 +86,28 @@ This repository contains Jupyter Notebooks implementing various foundational mac
   - Includes training and evaluation on categorized datasets.
 - **Notebook**: [`Classification.ipynb`](./Classification.ipynb)
 
+---
+
+### 8. **Variational Autoencoder (VAE)**
+- **Category**: Generative Modeling
+- **Description**: Implements a Variational Autoencoder (VAE) for generating new samples based on input data by learning a latent representation.
+- **Features**:
+  - Encodes data into a latent space and decodes it to reconstruct data with added variability.
+  - Includes reparameterization trick for gradient-based optimization.
+  - Trained on the MNIST dataset for image generation.
+- **Notebook**: [`VAE_Complete.ipynb`](./VAE_Complete.ipynb)
+
+---
+
+### 9. **Generative Adversarial Network (GAN)**
+- **Category**: Generative Modeling
+- **Description**: Implements a Generative Adversarial Network (GAN) consisting of a generator and discriminator that compete to produce realistic images.
+- **Features**:
+  - Generator network creates synthetic images.
+  - Discriminator network evaluates the authenticity of images.
+  - Trained on the MNIST dataset to generate realistic handwritten digits.
+- **Notebook**: [`GAN Complete.ipynb`](./GAN%20Complete.ipynb)
+
 
 ## Setup Instructions
 
