@@ -1,9 +1,11 @@
 # Machine Learning Algorithms Repository
+
 This repository contains Jupyter Notebooks implementing various foundational machine learning algorithms. Each notebook is designed to be beginner-friendly, with detailed explanations and examples, making it suitable for both learning and experimentation.
 
 ## Included Algorithms
 
 ### 1. **K-Nearest Neighbors (KNN)**
+
 - **Description**: Implements the KNN algorithm, a non-parametric method used for classification and regression.
 - **Features**:
   - Custom implementation using `numpy`.
@@ -15,6 +17,7 @@ This repository contains Jupyter Notebooks implementing various foundational mac
 ---
 
 ### 2. **Linear Regression**
+
 - **Description**: Implements Linear Regression for predicting a target variable based on input features.
 - **Features**:
   - Simple and customizable framework.
@@ -26,6 +29,7 @@ This repository contains Jupyter Notebooks implementing various foundational mac
 ---
 
 ### 3. **Logistic Regression**
+
 - **Description**: Implements Logistic Regression for binary classification tasks.
 - **Features**:
   - Progress tracking using `tqdm`.
@@ -39,17 +43,23 @@ This repository contains Jupyter Notebooks implementing various foundational mac
 ## Setup Instructions
 
 ### Requirements
+
 - Python 3.7+
 - Libraries:
   - `numpy`
   - `matplotlib`
   - `tqdm` (for Logistic Regression)
- 
+  - `torch`
+  - `torchvision` (for CNN)
+
 ### Installation
+
 ```bash
-    pip install numpy matplotlib tqdm` 
+    pip install numpy matplotlib tqdm torch torchvision`
 ```
+
 ### Running the Notebooks
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/SV592/ML.git
