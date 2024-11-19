@@ -50,7 +50,7 @@ This repository contains Jupyter Notebooks implementing various foundational mac
   - `matplotlib`
   - `tqdm` (for Logistic Regression)
   - `torch`
-  - `torchvision` (for CNN)
+  - `torchvision`
 
 ### Installation
 
