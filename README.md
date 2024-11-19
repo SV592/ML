@@ -1,6 +1,5 @@
 # Machine Learning Algorithms Repository
-
-Welcome to the **Machine Learning Algorithms Repository**! This repository contains Jupyter Notebooks implementing various foundational machine learning algorithms. Each notebook is designed to be beginner-friendly, with detailed explanations and examples, making it suitable for both learning and experimentation.
+This repository contains Jupyter Notebooks implementing various foundational machine learning algorithms. Each notebook is designed to be beginner-friendly, with detailed explanations and examples, making it suitable for both learning and experimentation.
 
 ## Included Algorithms
 
