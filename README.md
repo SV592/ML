@@ -44,7 +44,9 @@ Welcome to the **Machine Learning Algorithms Repository**! This repository conta
 - Libraries:
   - `numpy`
   - `matplotlib`
-  - `tqdm` (for Logistic Regression) 
+  - `tqdm` (for Logistic Regression)
+ 
+### Installation
 ```bash
     pip install numpy matplotlib tqdm` 
 ```
